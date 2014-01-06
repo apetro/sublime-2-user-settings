@@ -1,0 +1,16 @@
+{
+
+	"color_scheme": "Packages/MarkdownEditing/MarkdownEditor-Dark.tmTheme",
+
+		// Layout
+	"draw_centered": false,
+	"word_wrap": "auto",
+
+	// Line
+	"line_numbers": true,
+	"line_padding_top": 2,
+	"line_padding_bottom": 2,
+
+    // Yes, it's 4 for the initial tab, but it's 2 thereafter.
+	"tab_size": 2
+}
