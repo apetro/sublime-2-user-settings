@@ -1,0 +1,4 @@
+*.last-run
+Package Control.cache
+Package Control.sublime-settings
+Package Control.system-ca-bundle
