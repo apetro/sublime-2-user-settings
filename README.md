@@ -8,6 +8,28 @@ You probably shouldn't.
 
 But if you find some settings here that you want to use, hey, that's cool.
 
+# What are you using, how and why?
+
+## Packages
+
+### Gist
+
+### MarkdownEditing
+
+### Package Control
+
+Package Control for Sublime package management, of course.  I keep all the Package Control configuration and metadata out of source control, however, so that Package Control can operate independently in each of my Sublime installations.
+
+## Key bindings and such
+
+### Split pane editing
+
+I've got custom key bindings inspired by but not the same as those demonstrated [by Jeffrey Way](https://tutsplus.com/lesson/configuring-and-mastering-split-windows/).  I only tend to use up to two panes, so I've optimized for that.
+
+### Vintage
+
+I use Vintage mode.  Similar keys in Sublime and `vim` makes coping with `vim` easier.
+
 
 # Why put this in a public GitHub repo?
 
