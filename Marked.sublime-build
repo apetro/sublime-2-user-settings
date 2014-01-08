@@ -1,4 +1,5 @@
 {
+	// alas, this will only work on Mac OS X, not on Linux
 	"cmd": ["open","-a","/Applications/Marked.app","$file"],
 	"selector": "text.html.markdown"
 }
